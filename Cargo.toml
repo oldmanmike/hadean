@@ -1,0 +1,7 @@
+[package]
+name = "hadean"
+version = "0.1.0"
+license = "MIT"
+authors = ["oldmanmike <oldmanmike.dev@gmail.com>"]
+
+[dependencies]
